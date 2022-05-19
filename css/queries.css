@@ -1,0 +1,17 @@
+@media (max-width: 1028px) {
+
+    .title-img {
+        position: static;
+        transform: rotate(0deg);
+        height: 500px;
+        width: auto;
+    }
+
+    #title {
+        text-align: center;
+    }
+
+    .mobile-menu {
+        text-align: left;
+    }
+}
